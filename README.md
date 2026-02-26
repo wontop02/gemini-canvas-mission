@@ -61,7 +61,7 @@ Gemini Canvas 미션 결과물을 관리하는 저장소입니다.
 
 Collaboration with: @5jonyuk
 
-🔗 배포 링크: [똑똑플랜](https://gemini.google.com/share/aa1d17f05c44)
+🔗 배포 링크: [똑똑 플랜](https://gemini.google.com/share/aa1d17f05c44)
 
 제작 동기: 직접 입력하는 번거로움 때문에 일정을 놓치는 문제를 해결하기 위해, 메모하듯 툭 던지면 AI가 알아서 정리해주는 플래너를 기획했습니다.
 
